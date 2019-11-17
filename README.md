@@ -9,5 +9,5 @@ This is simple project for educational purposes how to create simple pipeline, l
 [X] ‘Blue Ocean’ is enabled <br>
 [X] Barebones Pipeline is added <br>
 [X] Publishes the static site to S3 <br>
-[ ] Linter catches issues with HTML <br>
+[X] Linter catches issues with HTML <br>
 [ ] Jenkinsfile is demonstrated
