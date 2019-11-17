@@ -10,4 +10,4 @@ This is simple project for educational purposes how to create simple pipeline, l
 [X] Barebones Pipeline is added <br>
 [X] Publishes the static site to S3 <br>
 [X] Linter catches issues with HTML <br>
-[ ] Jenkinsfile is demonstrated
+[X] Jenkinsfile is demonstrated
